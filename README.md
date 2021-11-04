@@ -1,1 +1,1 @@
-Verilog-primeiros-passos
+### I'm learning Verilog and here are some programs I did. 
